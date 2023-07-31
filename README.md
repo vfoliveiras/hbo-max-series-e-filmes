@@ -1,6 +1,6 @@
 # Análise Detalhada dos Títulos da HBO Max
 
-Este repositório contém uma análise abrangente dos títulos disponíveis na plataforma de streaming HBO Max, com dados adquiridos em maio de 2022, contendo informações disponíveis nos Estados Unidos.
+Este repositório contém uma análise abrangente dos títulos disponíveis na plataforma de streaming HBO Max, com dados adquiridos em maio de 2022 no Kaggle, contendo informações disponíveis nos Estados Unidos.
 
 A análise foi conduzida utilizando Python e diversas bibliotecas de análise de dados e visualização, como Pandas, NumPy, Scikit-learn, Seaborn e Matplotlib. O objetivo principal foi explorar os dados da HBO Max e fornecer insights interessantes para os fãs de cinema e séries.
 
